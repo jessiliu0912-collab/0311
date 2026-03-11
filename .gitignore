@@ -11,3 +11,5 @@ venv/
    
 # Mac 作業系統中的隱藏資料夾管理文件
 .DS_Store
+
+history/
